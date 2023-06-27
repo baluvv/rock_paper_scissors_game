@@ -1,0 +1,29 @@
+.react-icon {
+  color: grey;
+  height: 20px;
+  width: 20px;
+}
+
+.trigger-button {
+  color: #223a5f;
+  font-family: 'Bree Serif';
+  padding: 5px;
+  background-color: #ffffff;
+  border-width: 0px;
+  border-radius: 8px;
+  width: 80px;
+  align-self: right;
+}
+
+.image-container {
+  width: 80%;
+  padding: 30px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+}
+.close-button-container {
+  width: 100%;
+  display: flex;
+  justify-content: right;
+}
